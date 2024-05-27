@@ -1,6 +1,6 @@
 <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=LIFELINE+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=LIFE+LINE+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 
   
 <div align="center">
@@ -22,7 +22,7 @@
 
 ## Bot deploy in whatsapp biussness then not banned
 
-## Try Pairing code in to device then not comes session error https://wa.me/94719199757
+## Try Pairing code in to device then not comes session error https://wa.me923189948149
 
 <b><details><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
 

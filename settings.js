@@ -22,7 +22,7 @@ global.mess = {
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 }
 
-global.owner = [process.env.OWNER_NUMBER] || ['8801966569446'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.owner = [process.env.OWNER_NUMBER] || ['923288984844'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
 
 module.exports = {    
 SESSION_ID: process.env.SESSION_ID || 'youre session id',
@@ -39,7 +39,7 @@ ALWAYS_ONLINE:  process.env.ALWAYS_ONLINE  || false  ,
 WORK_TYPE: process.env.WORK_TYPE || 'private'  ,
 ANTI_LINK: process.env.ANTI_LINK || false  ,
 ANTI_BOT: process.env.ANTI_BOT || false  ,
-OWNER_NUMBER: process.env.OWNER_NUMBER || '8801966569446'  ,    
+OWNER_NUMBER: process.env.OWNER_NUMBER || '923288984844'  ,    
 ALIVE: process.env.ALIVE || `default`,
 OWNER_NAME: process.env.OWNER_NAME || 'Vajira' ,     
 AUTO_STATUS_READ:  process.env.AUTO_STATUS_READ  || false  ,    
@@ -47,7 +47,7 @@ AUTO_VOICE:  process.env.AUTO_VOICE  || false  ,
 AUTO_STICKER: process.env.AUTO_STICKER || false  ,
 WELCOME:  process.env.WELCOME  || false ,    
 NUMBER_212_BLOCK: process.env.NUMBER_212_BLOCK || false  ,
-FOOTER: process.env.FOOTER ||  '© LEGEND X SHAYAN',
+FOOTER: process.env.FOOTER ||  '© LEGEND X HAMZA',
 LOGO: process.env.LOGO || `https://telegra.ph/file/7a334761b67375002ec9f.jpg` ,
 IMAGE: process.env.IMAGE || `https://telegra.ph/file/7a334761b67375002ec9f.jpg`     
 };
